@@ -1,13 +1,13 @@
 {
   "Ads": {
     "admob": {
-      "banner_id": "/22387492205,22659634277/com.videodownloder.allsocial.fastsave.instantsaver.story.downloader.Banner0.1648456925",
-      "interstitial_id": "/22387492205,22659634277/com.videodownloder.allsocial.fastsave.instantsaver.story.downloader.Interstitial0.1648456989",
-      "interstitial_id_splash": "/22387492205,22659634277/com.videodownloder.allsocial.fastsave.instantsaver.story.downloader.Interstitial0.1648456989",
-      "native_id": "/22387492205,22659634277/com.videodownloder.allsocial.fastsave.instantsaver.story.downloader.Native0.1648457029",
-      "native_id_splash": "/22387492205,22659634277/com.videodownloder.allsocial.fastsave.instantsaver.story.downloader.Native1.1655208336",
-      "appopen_id": "/22387492205,22659634277/com.videodownloder.allsocial.fastsave.instantsaver.story.downloader.AppOpen0.1653908726",
-      "video_id": "/22387492205,22659634277/com.videodownloder.allsocial.fastsave.instantsaver.story.downloader.Rewarded0.1648457522",
+      "banner_id": "/6499/example/banner",
+      "interstitial_id": "/6499/example/interstitial",
+      "interstitial_id_splash": "/6499/example/interstitial",
+      "native_id": "/6499/example/native",
+      "native_id_splash": "/6499/example/native",
+      "appopen_id": "/6499/example/app-open",
+      "video_id": "/6499/example/rewarded",
       "status": "true",
       "splash_ads": "true"
     },

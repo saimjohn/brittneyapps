@@ -1,0 +1,26 @@
+{
+  "Ads": {
+    "admob": {
+      "banner_id": "/22387492205,22659634277/com.videodownloder.allsocial.fastsave.instantsaver.story.downloader.Banner0.1648456925",
+      "interstitial_id": "/22387492205,22659634277/com.videodownloder.allsocial.fastsave.instantsaver.story.downloader.Interstitial0.1648456989",
+      "interstitial_id_splash": "/22387492205,22659634277/com.videodownloder.allsocial.fastsave.instantsaver.story.downloader.Interstitial0.1648456989",
+      "native_id": "/22387492205,22659634277/com.videodownloder.allsocial.fastsave.instantsaver.story.downloader.Native0.1648457029",
+      "native_id_splash": "/22387492205,22659634277/com.videodownloder.allsocial.fastsave.instantsaver.story.downloader.Native1.1655208336",
+      "appopen_id": "/22387492205,22659634277/com.videodownloder.allsocial.fastsave.instantsaver.story.downloader.AppOpen0.1653908726",
+      "video_id": "/22387492205,22659634277/com.videodownloder.allsocial.fastsave.instantsaver.story.downloader.Rewarded0.1648457522",
+      "status": "true",
+      "splash_ads": "true"
+    },
+    "facebook": {
+      "app_id": "",
+      "banner_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "interstitial_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "native_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "native_banner_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "rectangle_banner_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "status_native": "false",
+      "status_interstitial": "false",
+      "status": "false"
+    }
+  }
+}
